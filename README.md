@@ -11,6 +11,15 @@
 <li>npm install</li>
 </ol>
 
+<h5>LIRI Commands</h5>
+
+<ol>
+<li>node liri.js my-tweets</li>
+<li>node liri.js spotify-this-song '<song name here>'</li>
+<li>node liri.js movie-this '<movie name here>'</li>
+<li>node liri.js do-what-it-says</li>
+</ol>
+
 
 
 
