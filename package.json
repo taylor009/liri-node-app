@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ronnytomasetti/LIRI_Bot.git"
+    "url": "git+https://github.com/taylor009/liri-node-app"
   },
   "keywords": [
     "liri",
@@ -29,7 +29,7 @@
   "author": "Taylor Gagne",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ronnytomasetti/LIRI_Bot/issues"
+    "url": "https://github.com/taylor009/liri-node-app/issues"
   },
-  "homepage": "https://github.com/ronnytomasetti/LIRI_Bot#readme"
+  "homepage": "https://github.com/taylor009/liri-node-app/blob/master/README.md"
 }
