@@ -25,11 +25,11 @@ function liriCommandRunner(cmd, param) {
             break;
         case "spotify-this-song":
             //TODO: VALIDATE SONG STRING BEFORE PASSING TO FUNCTION.
-            spotifyThis(param)
+            spotifyThis(param);
             break;
         case "movie-this":
             //TODO: VALIDATE MOVIE STRING BEFORE PASSING TO FUNCTION.
-            movieThis(param)
+            movieThis(param);
             break;
         case "do-what-it-says":
             //TODO: ADD SOMETHING AWESOME TO THIS FUNCTION.
